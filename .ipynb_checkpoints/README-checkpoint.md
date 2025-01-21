@@ -52,7 +52,7 @@ This bar chart shows median expenditure by payment method and discount type.
 ### US Cities Median Expenditure - Map Chart  
 This interactive map shows median expenditure across 4 of 5 cities.
 
-![Map Chart](Images/CMap1.png)
+![Map Chart](Images/Map1.png)
 
 ## KPI Cards
 
