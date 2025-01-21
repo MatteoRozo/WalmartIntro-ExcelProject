@@ -21,7 +21,7 @@ This dashboard seeks to answer the following questions surrounding consumer beha
 This dashboard was built in two steps.
 
 **Step 1: Database Exploration**  
-The first step involved exploring the database. The goal was to understand how the groups of key variables (loyalty level, cities, discount types, and payment methods) were balanced and to assess if the presence of undersampling could affect the interpretation of total spending on purchases (simple counts). Additionally, we aimed to determine if the distribution of spending per transaction suggested that the mean or median would be more appropriate for analysis (histogram).
+The first step involved exploring the database. The goal was to understand how groups of key variables (loyalty level, cities, discount types, and payment methods) were balanced and to assess if the presence of undersampling could affect the interpretation of total spending on purchases (simple counts). Additionally, it was important to determine if the distribution of spending per transaction suggested that the mean or median would be more appropriate for analysis (box-plots and histograms).
 
 **Two notes:**
 - This initial analysis can be found in an Excel file within the *Data_Exploration* folder. 
